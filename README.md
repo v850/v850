@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @v850
+- 👋 Hi, I’m  Vaishnavi Boje
 
 <!---
 v850/v850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
